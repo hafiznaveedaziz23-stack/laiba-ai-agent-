@@ -1,0 +1,17 @@
+{
+  "name": "Laiba AI Voice Agent",
+  "short_name": "Laiba AI",
+  "description": "Your friendly Urdu and English AI voice assistant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0c1c",
+  "theme_color": "#111027",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
